@@ -1,0 +1,12 @@
+#pole{
+    background-image: url('./img/fon.png');
+}
+h1{
+    text-align: center;
+    font-family: Arial black;
+    color: rgb(44, 247, 179);
+}
+#e{
+    height: 350px;
+    width: 350px;
+}
